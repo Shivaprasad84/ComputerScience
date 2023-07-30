@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "198760cde3844849",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7a78224351e92631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript (Understanding the weird parts).md",
+                "file": "JS-Basics/JavaScript (Understanding the weird parts).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript (Understanding the weird parts).md",
+                "file": "JS-Basics/JavaScript (Understanding the weird parts).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript (Understanding the weird parts).md",
+                "file": "JS-Basics/JavaScript (Understanding the weird parts).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript (Understanding the weird parts).md"
+                "file": "JS-Basics/JavaScript (Understanding the weird parts).md"
               }
             }
           }
@@ -157,6 +148,12 @@
   },
   "active": "7a78224351e92631",
   "lastOpenFiles": [
-    "JavaScript (Understanding the weird parts).md"
+    "JavaScript (Understanding the weird parts).md",
+    "JS-Basics/execution-context-image.png",
+    "JS-Basics/JavaScript (Understanding the weird parts).md",
+    "JS-Basics/Execution Context.canvas",
+    "JS-Basics",
+    "Execution Context.canvas",
+    "execution-context-image.png"
   ]
 }
