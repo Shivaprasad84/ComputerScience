@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS-Basics/JavaScript (Understanding the weird parts).md",
+                "file": "JS-Basics/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-Basics/JavaScript (Understanding the weird parts).md",
+                "file": "JS-Basics/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-Basics/JavaScript (Understanding the weird parts).md",
+                "file": "JS-Basics/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-Basics/JavaScript (Understanding the weird parts).md"
+                "file": "JS-Basics/JavaScript.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "7a78224351e92631",
   "lastOpenFiles": [
-    "JavaScript (Understanding the weird parts).md",
-    "JS-Basics/execution-context-image.png",
-    "JS-Basics/JavaScript (Understanding the weird parts).md",
     "JS-Basics/Execution Context.canvas",
+    "JS-Basics/JavaScript.md",
+    "JS-Basics/execution-context-image.png",
+    "JavaScript (Understanding the weird parts).md",
     "JS-Basics",
     "Execution Context.canvas",
     "execution-context-image.png"
