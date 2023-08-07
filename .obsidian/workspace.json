@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distinct vs DistinctUntilChanged.md",
+                "file": "RXJS/BehaviorSubject.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distinct vs DistinctUntilChanged.md",
+                "file": "RXJS/BehaviorSubject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distinct vs DistinctUntilChanged.md",
+                "file": "RXJS/BehaviorSubject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distinct vs DistinctUntilChanged.md"
+                "file": "RXJS/BehaviorSubject.md"
               }
             }
           }
@@ -146,33 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bac2bf2fa9c8c5eb",
+  "active": "46bbfa25520c0181",
   "lastOpenFiles": [
-    "RXJS.md",
-    "Distinct vs DistinctUntilChanged.md",
+    "RXJS/Distinct vs DistinctUntilChanged.md",
+    "RXJS/RXJS.md",
     "JS-Basics/JavaScript.md",
-    "ThrottleTime.md",
-    "Popular Operators.md",
-    "WithLatestFrom.md",
-    "CombineLatest.md",
-    "SwitchMap.md",
-    "ConcatMap.md",
-    "MergeMap.md",
-    "Roadmap.md",
-    "Buffer, BuffeTime, BufferWhen.md",
-    "doubt-1.md",
-    "How reference count works in share.md",
-    "share and shareReplay.md",
-    "Hot vs Cold Observables.md",
-    "doubt-4.md",
-    "difference between hot and shared observable.md",
-    "doubt-3.md",
-    "doubt-2.md",
-    "unicasting and multicasting.md",
-    "Subject vs Behavior Subject.md",
+    "RXJS/ThrottleTime.md",
+    "RXJS/Popular Operators.md",
+    "RXJS/WithLatestFrom.md",
+    "RXJS/CombineLatest.md",
+    "RXJS/SwitchMap.md",
+    "RXJS/ConcatMap.md",
+    "RXJS/MergeMap.md",
+    "RXJS/Roadmap.md",
+    "RXJS/Buffer, BuffeTime, BufferWhen.md",
+    "RXJS/doubt-1.md",
+    "RXJS/How reference count works in share.md",
+    "RXJS/share and shareReplay.md",
+    "RXJS/Hot vs Cold Observables.md",
+    "RXJS/doubt-4.md",
+    "RXJS/difference between hot and shared observable.md",
+    "RXJS/doubt-3.md",
+    "RXJS/doubt-2.md",
+    "RXJS/unicasting and multicasting.md",
+    "RXJS/Subject vs Behavior Subject.md",
     "RXJS/Images",
-    "BehaviorSubject.md",
-    "ReplaySubject.md",
+    "RXJS/BehaviorSubject.md",
+    "RXJS/ReplaySubject.md",
     "RXJS/Images/concat-map.png",
     "Pasted.md",
     "RXJS",
