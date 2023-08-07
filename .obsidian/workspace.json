@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a021ee7fb9a107ae",
+        "id": "0f7b1e798a6c00f2",
         "type": "tabs",
         "children": [
           {
-            "id": "7a78224351e92631",
+            "id": "bac2bf2fa9c8c5eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS-Basics/JavaScript.md",
+                "file": "Distinct vs DistinctUntilChanged.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS-Basics/JavaScript.md",
+                "file": "Distinct vs DistinctUntilChanged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS-Basics/JavaScript.md",
+                "file": "Distinct vs DistinctUntilChanged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS-Basics/JavaScript.md"
+                "file": "Distinct vs DistinctUntilChanged.md"
               }
             }
           }
@@ -146,10 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a78224351e92631",
+  "active": "bac2bf2fa9c8c5eb",
   "lastOpenFiles": [
-    "JS-Basics/Execution Context.canvas",
+    "RXJS.md",
+    "Distinct vs DistinctUntilChanged.md",
     "JS-Basics/JavaScript.md",
+    "ThrottleTime.md",
+    "Popular Operators.md",
+    "WithLatestFrom.md",
+    "CombineLatest.md",
+    "SwitchMap.md",
+    "ConcatMap.md",
+    "MergeMap.md",
+    "Roadmap.md",
+    "Buffer, BuffeTime, BufferWhen.md",
+    "doubt-1.md",
+    "How reference count works in share.md",
+    "share and shareReplay.md",
+    "Hot vs Cold Observables.md",
+    "doubt-4.md",
+    "difference between hot and shared observable.md",
+    "doubt-3.md",
+    "doubt-2.md",
+    "unicasting and multicasting.md",
+    "Subject vs Behavior Subject.md",
+    "RXJS/Images",
+    "BehaviorSubject.md",
+    "ReplaySubject.md",
+    "RXJS/Images/concat-map.png",
+    "Pasted.md",
+    "RXJS",
+    "JS-Basics/Execution Context.canvas",
     "JS-Basics/execution-context-image.png",
     "JavaScript (Understanding the weird parts).md",
     "JS-Basics",
