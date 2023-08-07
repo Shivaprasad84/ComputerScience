@@ -11,15 +11,24 @@
             "id": "bac2bf2fa9c8c5eb",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "99866ad9e472eab5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "RXJS/BehaviorSubject.md",
+                "file": "CMD/Cmd Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/BehaviorSubject.md",
+                "file": "CMD/Cmd Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/BehaviorSubject.md",
+                "file": "CMD/Cmd Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/BehaviorSubject.md"
+                "file": "CMD/Cmd Shortcuts.md"
               }
             }
           }
@@ -148,8 +157,12 @@
   },
   "active": "46bbfa25520c0181",
   "lastOpenFiles": [
-    "RXJS/Distinct vs DistinctUntilChanged.md",
+    "CMD/Cmd Shortcuts.md",
+    "CMD",
     "RXJS/RXJS.md",
+    "RXJS/doubt-2.md",
+    "RXJS/BehaviorSubject.md",
+    "RXJS/Distinct vs DistinctUntilChanged.md",
     "JS-Basics/JavaScript.md",
     "RXJS/ThrottleTime.md",
     "RXJS/Popular Operators.md",
@@ -167,18 +180,15 @@
     "RXJS/doubt-4.md",
     "RXJS/difference between hot and shared observable.md",
     "RXJS/doubt-3.md",
-    "RXJS/doubt-2.md",
     "RXJS/unicasting and multicasting.md",
     "RXJS/Subject vs Behavior Subject.md",
     "RXJS/Images",
-    "RXJS/BehaviorSubject.md",
     "RXJS/ReplaySubject.md",
     "RXJS/Images/concat-map.png",
     "Pasted.md",
     "RXJS",
     "JS-Basics/Execution Context.canvas",
     "JS-Basics/execution-context-image.png",
-    "JavaScript (Understanding the weird parts).md",
     "JS-Basics",
     "Execution Context.canvas",
     "execution-context-image.png"
