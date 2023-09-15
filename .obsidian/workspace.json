@@ -11,8 +11,12 @@
             "id": "bac2bf2fa9c8c5eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux Stuff/Linux Stuff.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RXJS/ConcatMap.md",
+                "file": "Linux Stuff/Linux Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RXJS/ConcatMap.md",
+                "file": "Linux Stuff/Linux Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RXJS/ConcatMap.md"
+                "file": "Linux Stuff/Linux Stuff.md"
               }
             }
           },
@@ -153,37 +157,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c6c7695f9ea5ad7b",
+  "active": "bac2bf2fa9c8c5eb",
   "lastOpenFiles": [
+    "RXJS/How reference count works in share.md",
+    "Linux Stuff/Linux Stuff.md",
+    "Linux Stuff",
+    "RXJS/share and shareReplay.md",
+    "RXJS/doubt-1.md",
+    "RXJS/unicasting and multicasting.md",
+    "RXJS/Hot vs Cold Observables.md",
+    "RXJS/RXJS.md",
+    "RXJS/Subject vs Behavior Subject.md",
+    "RXJS/ReplaySubject.md",
+    "RXJS/ConcatMap.md",
+    "RXJS/SwitchMap.md",
+    "RXJS/BehaviorSubject.md",
+    "TS/notes.md",
+    "CMD/Cmd Shortcuts.md",
+    "JS-Basics/JavaScript.md",
     "RXJS/Popular Operators.md",
     "RXJS/Roadmap.md",
-    "CMD/Cmd Shortcuts.md",
     "CMD",
-    "RXJS/RXJS.md",
     "RXJS/doubt-2.md",
-    "RXJS/BehaviorSubject.md",
     "RXJS/Distinct vs DistinctUntilChanged.md",
-    "JS-Basics/JavaScript.md",
     "RXJS/ThrottleTime.md",
     "RXJS/WithLatestFrom.md",
     "RXJS/CombineLatest.md",
-    "RXJS/SwitchMap.md",
-    "RXJS/ConcatMap.md",
     "RXJS/MergeMap.md",
     "RXJS/Buffer, BuffeTime, BufferWhen.md",
-    "RXJS/doubt-1.md",
-    "RXJS/How reference count works in share.md",
-    "RXJS/share and shareReplay.md",
-    "RXJS/Hot vs Cold Observables.md",
     "RXJS/doubt-4.md",
     "RXJS/difference between hot and shared observable.md",
-    "RXJS/doubt-3.md",
-    "RXJS/unicasting and multicasting.md",
-    "RXJS/Subject vs Behavior Subject.md",
     "RXJS/Images",
-    "RXJS/ReplaySubject.md",
     "RXJS/Images/concat-map.png",
-    "Pasted.md",
     "RXJS",
     "JS-Basics/Execution Context.canvas",
     "JS-Basics/execution-context-image.png",
